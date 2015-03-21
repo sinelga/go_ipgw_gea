@@ -1,0 +1,1 @@
+goapp deploy go_ipgw_gea/
